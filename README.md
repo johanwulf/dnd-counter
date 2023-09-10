@@ -1,4 +1,4 @@
-# Dungeons & Dragons Counter
+# dnd-counter
 
 DPS counter for the table top game of Dungeons & Dragons. Tracks hit percentage and total damage.
 
